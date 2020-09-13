@@ -1,14 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>preview on Hugo test pages using theme Even</title><link>https://neutralgit.gitee.io/tags/preview/</link><description>Recent content in preview on Hugo test pages using theme Even</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0800</lastBuildDate><atom:link href="https://neutralgit.gitee.io/tags/preview/index.xml" rel="self" type="application/rss+xml"/><item><title>Theme preview</title><link>https://neutralgit.gitee.io/post/even-preview/</link><pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate><guid>https://neutralgit.gitee.io/post/even-preview/</guid><description>Based on MarkdownPreview test.md. Markdown 1 2 3 4 5 6 7 8 # H1 ## H2 ### H3 #### H4 ##### H5 ###### H6 ### Duplicate Header ### Duplicate Header H1 H2 H3 H4 H5 H6 Duplicate Header Duplicate Header Paragraphs 1 2 3 4 This is a paragraph. I am still part of the paragraph. New paragraph. This is a paragraph. I am still part of the paragraph.</description></item><item><title>[English] Creating a New Theme</title><link>https://neutralgit.gitee.io/post/english-preview/</link><pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate><guid>https://neutralgit.gitee.io/post/english-preview/</guid><description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description></item><item><title>[日本語] 敬語体系</title><link>https://neutralgit.gitee.io/post/japanese-preview/</link><pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate><guid>https://neutralgit.gitee.io/post/japanese-preview/</guid><description>日本語の敬語体系は、一般に、大きく尊敬語・謙譲語・丁寧語に分類される。文化審議会国語分科会は、2007年2月に「敬語の指針」を答申し、これに</description></item><item><title>[中文] 《长恨歌》</title><link>https://neutralgit.gitee.io/post/chinese-preview/</link><pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate><guid>https://neutralgit.gitee.io/post/chinese-preview/</guid><description>《长恨歌》是中国唐朝诗人白居易的一首长篇叙事诗。 第一段：贵妃受宠爱 汉皇重色思倾国，御宇多年求不得。杨家有女初长成，养在深闺人未识。 天生丽质难</description></item><item><title>Syntax Highlighting</title><link>https://neutralgit.gitee.io/post/syntax-highlighting/</link><pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate><guid>https://neutralgit.gitee.io/post/syntax-highlighting/</guid><description>&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;span class="lnt">3
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre class="chroma">&lt;code class="language-js" data-lang="js">&lt;span class="kd">function&lt;/span> &lt;span class="nx">helloWorld&lt;/span> &lt;span class="p">()&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;span class="nx">alert&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Hello, World!&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;span class="p">}&lt;/span>
-&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>preview on Icarusky's Blog</title><link>https://icarusky.com/tags/preview/</link><description>Recent content in preview on Icarusky's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0800</lastBuildDate><atom:link href="https://icarusky.com/tags/preview/index.xml" rel="self" type="application/rss+xml"/><item><title>Theme preview</title><link>https://icarusky.com/post/even-preview/</link><pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate><guid>https://icarusky.com/post/even-preview/</guid><description>Based on MarkdownPreview test.md.
+Markdown # H1 ## H2 ### H3 #### H4 ##### H5 ###### H6 ### Duplicate Header ### Duplicate Header H1 H2 H3 H4 H5 H6 Duplicate Header Duplicate Header Paragraphs This is a paragraph.</description></item><item><title>[English] Creating a New Theme</title><link>https://icarusky.com/post/english-preview/</link><pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate><guid>https://icarusky.com/post/english-preview/</guid><description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content.</description></item><item><title>[日本語] 敬語体系</title><link>https://icarusky.com/post/japanese-preview/</link><pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate><guid>https://icarusky.com/post/japanese-preview/</guid><description>日本語の敬語体系は、一般に、大きく尊敬語・謙譲語・丁寧語に分類される。文化審議会国語分科会は、2007年2月に「敬語の指針」を答申し、これに丁重語および美化語を含めた5分類を示している。
+尊敬語 尊敬語は、動作の主体を高めることで、主体への敬意を表す言い方である。動詞に「お（ご）～になる」を付けた形、また、助動詞「（ら）れる」を付けた形などが用いられる。たとえば、動詞「取る」の尊敬形として、「（先生が）お取りになる」「（先生が）取られる」などが用いられる。
+語によっては、特定の尊敬語が対応するものもある。たとえば、「言う」の尊敬語は「おっしゃる」、「食べる」の尊敬語は「召し上がる」、「行く・来る・いる」の尊敬語は「いらっしゃる」である。
+謙譲語 謙譲語は、古代から基本的に動作の客体への敬意を表す言い方であり、現代では「動作の主体を低める」と解釈するほうがよい場合がある。動詞に「お～する」「お～いたします」（謙譲語＋丁寧語）をつけた形などが用いられる。たとえば、「取る」の謙譲形として、「お取りする」などが用いられる。
+語によっては、特定の謙譲語が対応するものもある。たとえば、「言う」の謙譲語は「申し上げる」、「食べる」の謙譲語は「いただく」、「（相手の所に）行く」の謙譲語は「伺う」「参上する」「まいる」である。
+なお、「夜も更けてまいりました」の「まいり」など、謙譲表現のようでありながら、誰かを低めているわけではない表現がある。これは、「夜も更けてきた」という話題を丁重に表現することによって、聞き手への敬意を表すものである。宮地裕は、この表現に使われる語を、特に「丁重語」と称している[104][105]。丁重語にはほかに「いたし（マス）」「申し（マス）」「存じ（マス）」「小生」「小社」「弊社」などがある。文化審議会の「敬語の指針」でも、「明日から海外へまいります」の「まいり」のように、相手とは関りのない自分側の動作を表現する言い方を丁重語としている。
+丁寧語 丁寧語は、文末を丁寧にすることで、聞き手への敬意を表すものである。動詞・形容詞の終止形で終わる常体に対して、名詞・形容動詞語幹などに「です」を付けた形（「学生です」「きれいです」）や、動詞に「ます」をつけた形（「行きます」「分かりました」）等の丁寧語を用いた文体を敬体という。
+一般に、目上の人には丁寧語を用い、同等・目下の人には丁寧語を用いないといわれる。しかし、実際の言語生活に照らして考えれば、これは事実ではない。母が子を叱るとき、「お母さんはもう知りませんよ」と丁寧語を用いる場合ももある。丁寧語が用いられる多くの場合は、敬意や謝意の表現とされるが、、稀に一歩引いた心理的な距離をとろうとする場合もある。
+「お弁当」「ご飯」などの「お」「ご」も、広い意味では丁寧語に含まれるが、宮地裕は特に「美化語」と称して区別する[104][105]。相手への丁寧の意を示すというよりは、話し手が自分の言葉遣いに配慮した表現である。したがって、「お弁当食べようよ。」のように、丁寧体でない文でも美化語を用いることがある。文化審議会の「敬語の指針」でも「美化語」を設けている。</description></item><item><title>[中文] 《长恨歌》</title><link>https://icarusky.com/post/chinese-preview/</link><pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate><guid>https://icarusky.com/post/chinese-preview/</guid><description>《长恨歌》是中国唐朝诗人白居易的一首长篇叙事诗。
+第一段：贵妃受宠爱 汉皇重色思倾国，御宇多年求不得。杨家有女初长成，养在深闺人未识。
+天生丽质难自弃，一朝选在君王侧。回眸一笑百媚生，六宫粉黛无颜色。
+春寒赐浴华清池，温泉水滑洗凝脂。侍儿扶起娇无力，始是新承恩泽时。
+云鬓花颜金步摇，芙蓉帐暖度春宵。春宵苦短日高起，从此君王不早朝。
+承欢侍宴无闲暇，春从春游夜专夜。后宫佳丽三千人，三千宠爱在一身。
+金屋妆成娇侍夜，玉楼宴罢醉和春。姊妹弟兄皆列士，可怜光彩生门户。
+遂令天下父母心，不重生男重生女。骊宫高处入青云，仙乐风飘处处闻。
+缓歌慢舞凝丝竹，尽日君王看不足。渔阳鼙鼓动地来，惊破霓裳羽衣曲。
+第二段：马嵬惊变 九重城阙烟尘生，千乘万骑西南行。翠华摇摇行复止，西出都门百余里。
+六军不发无奈何，宛转蛾眉马前死。花钿委地无人收，翠翘金雀玉搔头。
+君王掩面救不得，回看血泪相和流。黄埃散漫风萧索，云栈萦纡登剑阁。
+峨嵋山下少人行，旌旗无光日色薄。蜀江水碧蜀山青，圣主朝朝暮暮情。
+行宫见月伤心色，夜雨闻铃肠断声。
+第三段：玄宗皇帝思念 天旋地转回龙驭，到此踌躇不能去。马嵬坡下泥土中，不见玉颜空死处。</description></item><item><title>Syntax Highlighting</title><link>https://icarusky.com/post/syntax-highlighting/</link><pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate><guid>https://icarusky.com/post/syntax-highlighting/</guid><description>&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-js" data-lang="js">&lt;span style="color:#66d9ef">function&lt;/span> &lt;span style="color:#a6e22e">helloWorld&lt;/span> () {
+&lt;span style="color:#a6e22e">alert&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Hello, World!&amp;#34;&lt;/span>)
+}
+&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>
