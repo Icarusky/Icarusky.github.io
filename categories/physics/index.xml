@@ -12,6 +12,4 @@ $L=L(q,\overset{.}q,t)$
 $\begin{aligned} \delta S &amp;amp; =\delta\int_{t1}^{t2}Ldt \\
 &amp;amp; = \int_{t1}^{t2} \delta Ldt \\
 &amp;amp; = \int_{t1}^{t2} (\frac{\partial L}{\partial q_{k}} \delta q - \frac{\partial L}{\partial \dot q_{k}} \delta \dot q_{k})dt \\
-&amp;amp; = \int_{t1}^{t2} [\frac{\partial L}{\partial q_{k}} \delta q - \frac{\mathrm d }{\mathrm{d}t}(\frac{\partial L}{\partial \dot q_{k}}) \delta q] \mathrm{d}t + \left.</description></item><item><title>test for physics</title><link>/articles/test-for-physics/</link><pubDate>Mon, 11 Feb 2019 15:31:24 +1100</pubDate><guid>/articles/test-for-physics/</guid><description>233
-Page not found Sorry, but we couldn&amp;rsquo;t find the page you&amp;rsquo;re looking for.
-Please head back home.</description></item></channel></rss>
+&amp;amp; = \int_{t1}^{t2} [\frac{\partial L}{\partial q_{k}} \delta q - \frac{\mathrm d }{\mathrm{d}t}(\frac{\partial L}{\partial \dot q_{k}}) \delta q] \mathrm{d}t + \left.</description></item></channel></rss>
